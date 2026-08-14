@@ -6,7 +6,7 @@
 - Male
 - Likes computing
 - Can speak Vietnamese in various accents
-- Can speak English at the communication level
+- Can speak English at a communication level
 
 ## Here's my stats, if you want to know particularly
 ![](https://github-stats-extended.vercel.app/api?username=khangdang902&rank_icon=github&custom_title=Statistics&show_icons=true&include_all_commits=true&theme=noctis_minimus)
